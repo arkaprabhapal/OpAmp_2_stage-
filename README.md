@@ -5,3 +5,5 @@ Final Circuit diagram with dimensions :
 
 AC Analysis and Phase Margin :
 - ![Screenshot-60](https://github.com/user-attachments/assets/709195b9-b151-46b2-989f-e504e9b047f4)
+- AC gain at low frequencies = 62 dB
+- Phase Margin = 62°
